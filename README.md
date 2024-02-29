@@ -55,4 +55,5 @@ Before we begin, make sure you have the following installed on your system:
 5. That's it! You've successfully set up environment files.
 6. Explore the Webpage
 ### Sample Demo Video
+https://github.com/devapraveenk/FAQ_Chatbot_using_LangChain_V1/assets/115524697/483f921a-f583-44ac-9874-aafab896e519
 
