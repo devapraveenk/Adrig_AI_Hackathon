@@ -1,2 +1,2 @@
 # Adrig_AI_Hackathon
-Sentiment analysis Using Machine Learninf
+Sentiment analysis Using Machine Learning
