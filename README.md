@@ -14,7 +14,8 @@ Before we begin, make sure you have the following installed on your system:
 2. Move to the desired directory using  ```cd your_path```
 3. Clone the repository by typing the below code in the terminal:
    ```
-    git clone https://github.com/devapraveenk/Adrig_AI_Hackathon.git`` 
+    git clone https://github.com/devapraveenk/Adrig_AI_Hackathon.git
+   ```
 4. Open this repo on a code editor (eg: VScode) and follow the below steps
 ## Step 2: Creating Virtual environment
 
